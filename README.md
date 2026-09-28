@@ -80,17 +80,6 @@ L'objectif est d'évaluer les deux modèles sur des métriques de performance hi
 
 ---
 
-## Stack technique
-
-
-Python 3.x
-pandas · numpy · yfinance
-scikit-learn (LedoitWolf)
-scipy.optimize (SLSQP)
-matplotlib
-
----
-
 ## Structure du projet
 
 ```
