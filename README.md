@@ -91,6 +91,6 @@ portfolio-optimization/
 
 ---
 
-## Auteure
+## Auteur
 
-**Lilian Nkwemfo** — MSc Finance & Big Data, Neoma Business School  
+**Lilian Nkwemfo**
