@@ -80,17 +80,6 @@ L'objectif est d'évaluer les deux modèles sur des métriques de performance hi
 
 ---
 
-## Structure du projet
-
-```
-portfolio-optimization/
-│
-├── Allocation_d_actifs___Modèle_Black-Litterman.ipynb   # Notebook principal
-└── README.md
-```
-
----
-
 ## Auteur
 
 **Lilian Nkwemfo**
